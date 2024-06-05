@@ -1,0 +1,314 @@
+<nogometasi>
+    <nogometas id="001">
+        <ime>Dominik</ime>
+        <prezime>Livaković</prezime>
+        <pozicija>GK</pozicija>
+        <broj>1</broj>
+        <datumRodjenja>1995-01-09</datumRodjenja>
+        <godine>29</godine>
+        <nastupi>53</nastupi>
+        <golovi>0</golovi>
+        <klub>Fenerbahce</klub>
+        <slika>livakovic.png</slika>
+    </nogometas>
+    <nogometas id="002">
+        <ime>Ivica</ime>
+        <prezime>Ivušić</prezime>
+        <pozicija>GK</pozicija>
+        <broj>23</broj>
+        <datumRodjenja>1995-02-01</datumRodjenja>
+        <godine>29</godine>
+        <nastupi>6</nastupi>
+        <golovi>0</golovi>
+        <klub>Pafos</klub>
+        <slika>ivusic.png</slika>
+    </nogometas>
+    <nogometas id="003">
+        <ime>Nediljko</ime>
+        <prezime>Labrović</prezime>
+        <pozicija>GK</pozicija>
+        <broj>12</broj>
+        <datumRodjenja>1999-10-10</datumRodjenja>
+        <godine>24</godine>
+        <nastupi>1</nastupi>
+        <golovi>0</golovi>
+        <klub>HNK Rijeka</klub>
+        <slika>labrovic.png</slika>
+    </nogometas>
+    <nogometas id="004">
+        <ime>Domagoj</ime>
+        <prezime>Vida</prezime>
+        <pozicija>CB</pozicija>
+        <broj>21</broj>
+        <datumRodjenja>1989-04-29</datumRodjenja>
+        <godine>35</godine>
+        <nastupi>105</nastupi>
+        <golovi>4</golovi>
+        <klub>AEK Atena</klub>
+        <slika>vida.png</slika>
+    </nogometas>
+    <nogometas id="005">
+        <ime>Josip</ime>
+        <prezime>Juranović</prezime>
+        <pozicija>RB</pozicija>
+        <broj>22</broj>
+        <datumRodjenja>1995-08-16</datumRodjenja>
+        <godine>28</godine>
+        <nastupi>37</nastupi>
+        <golovi>0</golovi>
+        <klub>Union Berlin</klub>
+        <slika>juranovic.png</slika>
+    </nogometas>
+    <nogometas id="006">
+        <ime>Joško</ime>
+        <prezime>Gvardiol</prezime>
+        <pozicija>CB</pozicija>
+        <broj>4</broj>
+        <datumRodjenja>2002-01-23</datumRodjenja>
+        <godine>22</godine>
+        <nastupi>29</nastupi>
+        <golovi>2</golovi>
+        <klub>Manchester City</klub>
+        <slika>gvardiol.png</slika>
+    </nogometas>
+    <nogometas id="007">
+        <ime>Borna</ime>
+        <prezime>Sosa</prezime>
+        <pozicija>LB</pozicija>
+        <broj>19</broj>
+        <datumRodjenja>1998-01-21</datumRodjenja>
+        <godine>26</godine>
+        <nastupi>20</nastupi>
+        <golovi>1</golovi>
+        <klub>Ajax</klub>
+        <slika>sosa.png</slika>
+    </nogometas>
+    <nogometas id="008">
+        <ime>Josip</ime>
+        <prezime>Stanišić</prezime>
+        <pozicija>RB</pozicija>
+        <broj>2</broj>
+        <datumRodjenja>2000-04-02</datumRodjenja>
+        <godine>24</godine>
+        <nastupi>17</nastupi>
+        <golovi>0</golovi>
+        <klub>Bayern Munchen</klub>
+        <slika>stanisic.png</slika>
+    </nogometas>
+    <nogometas id="009">
+        <ime>Josip</ime>
+        <prezime>Šutalo</prezime>
+        <pozicija>CB</pozicija>
+        <broj>6</broj>
+        <datumRodjenja>2000-02-28</datumRodjenja>
+        <godine>24</godine>
+        <nastupi>13</nastupi>
+        <golovi>0</golovi>
+        <klub>Ajax</klub>
+        <slika>sutalo.png</slika>
+    </nogometas>
+    <nogometas id="010">
+        <ime>Martin</ime>
+        <prezime>Erlić</prezime>
+        <pozicija>CB</pozicija>
+        <broj>5</broj>
+        <datumRodjenja>1998-01-24</datumRodjenja>
+        <godine>26</godine>
+        <nastupi>9</nastupi>
+        <golovi>0</golovi>
+        <klub>Sassuolo</klub>
+        <slika>erlic.png</slika>
+    </nogometas>
+    <nogometas id="011">
+        <ime>Marin</ime>
+        <prezime>Pongračić</prezime>
+        <pozicija>CB</pozicija>
+        <broj>3</broj>
+        <datumRodjenja>1997-09-11</datumRodjenja>
+        <godine>26</godine>
+        <nastupi>7</nastupi>
+        <golovi>0</golovi>
+        <klub>Lecce</klub>
+        <slika>pongracic.png</slika>
+    </nogometas>
+    <nogometas id="012">
+        <ime>Luka</ime>
+        <prezime>Modrić</prezime>
+        <pozicija>CMF</pozicija>
+        <broj>10</broj>
+        <datumRodjenja>1985-09-09</datumRodjenja>
+        <godine>38</godine>
+        <nastupi>174</nastupi>
+        <golovi>24</golovi>
+        <klub>Real Madrid</klub>
+        <slika>modric.png</slika>
+    </nogometas>
+    <nogometas id="013">
+        <ime>Mateo</ime>
+        <prezime>Kovačić</prezime>
+        <pozicija>CMF</pozicija>
+        <broj>8</broj>
+        <datumRodjenja>1994-05-06</datumRodjenja>
+        <godine>30</godine>
+        <nastupi>100</nastupi>
+        <golovi>5</golovi>
+        <klub>Manchester City</klub>
+        <slika>kovacic.png</slika>
+    </nogometas>
+    <nogometas id="014">
+        <ime>Marcelo</ime>
+        <prezime>Brozović</prezime>
+        <pozicija>DMF</pozicija>
+        <broj>11</broj>
+        <datumRodjenja>1992-11-16</datumRodjenja>
+        <godine>31</godine>
+        <nastupi>95</nastupi>
+        <golovi>7</golovi>
+        <klub>Al Nassr</klub>
+        <slika>brozovic.png</slika>
+    </nogometas>
+    <nogometas id="015">
+        <ime>Mario</ime>
+        <prezime>Pašalić</prezime>
+        <pozicija>AMF</pozicija>
+        <broj>15</broj>
+        <datumRodjenja>1995-02-09</datumRodjenja>
+        <godine>29</godine>
+        <nastupi>62</nastupi>
+        <golovi>10</golovi>
+        <klub>Atalanta</klub>
+        <slika>pasalic.png</slika>
+    </nogometas>
+    <nogometas id="016">
+        <ime>Nikola</ime>
+        <prezime>Vlašić</prezime>
+        <pozicija>AMF</pozicija>
+        <broj>13</broj>
+        <datumRodjenja>1997-10-04</datumRodjenja>
+        <godine>26</godine>
+        <nastupi>55</nastupi>
+        <golovi>8</golovi>
+        <klub>Torino</klub>
+        <slika>vlasic.png</slika>
+    </nogometas>
+    <nogometas id="017">
+        <ime>Lovro</ime>
+        <prezime>Majer</prezime>
+        <pozicija>AMF</pozicija>
+        <broj>7</broj>
+        <datumRodjenja>1998-01-17</datumRodjenja>
+        <godine>26</godine>
+        <nastupi>30</nastupi>
+        <golovi>8</golovi>
+        <klub>Wolfsburg</klub>
+        <slika>majer.png</slika>
+    </nogometas>
+    <nogometas id="018">
+        <ime>Luka</ime>
+        <prezime>Ivanušec</prezime>
+        <pozicija>AMF</pozicija>
+        <broj>18</broj>
+        <datumRodjenja>1998-11-26</datumRodjenja>
+        <godine>25</godine>
+        <nastupi>20</nastupi>
+        <golovi>2</golovi>
+        <klub>Feyenoord</klub>
+        <slika>ivanusec.png</slika>
+    </nogometas>
+    <nogometas id="019">
+        <ime>Luka</ime>
+        <prezime>Sučić</prezime>
+        <pozicija>AMF</pozicija>
+        <broj>25</broj>
+        <datumRodjenja>2002-09-02</datumRodjenja>
+        <godine>21</godine>
+        <nastupi>6</nastupi>
+        <golovi>0</golovi>
+        <klub>Salzburg</klub>
+        <slika>sucic.png</slika>
+    </nogometas>
+    <nogometas id="020">
+        <ime>Martin</ime>
+        <prezime>Baturina</prezime>
+        <pozicija>AMF</pozicija>
+        <broj>26</broj>
+        <datumRodjenja>2003-02-16</datumRodjenja>
+        <godine>21</godine>
+        <nastupi>3</nastupi>
+        <golovi>0</golovi>
+        <klub>GNK Dinamo Zagreb</klub>
+        <slika>baturina.png</slika>
+    </nogometas>
+    <nogometas id="021">
+        <ime>Ivan</ime>
+        <prezime>Perišić</prezime>
+        <pozicija>LWF</pozicija>
+        <broj>14</broj>
+        <datumRodjenja>1989-02-02</datumRodjenja>
+        <godine>25</godine>
+        <nastupi>130</nastupi>
+        <golovi>33</golovi>
+        <klub>HNK Hajduk Split</klub>
+        <slika>perisic.png</slika>
+    </nogometas>
+    <nogometas id="022">
+        <ime>Andrej</ime>
+        <prezime>Kramarić</prezime>
+        <pozicija>CF</pozicija>
+        <broj>9</broj>
+        <datumRodjenja>1991-06-19</datumRodjenja>
+        <godine>32</godine>
+        <nastupi>92</nastupi>
+        <golovi>28</golovi>
+        <klub>Hoffenheim</klub>
+        <slika>kramaric.png</slika>
+    </nogometas>
+    <nogometas id="023">
+        <ime>Bruno</ime>
+        <prezime>Petković</prezime>
+        <pozicija>CF</pozicija>
+        <broj>17</broj>
+        <datumRodjenja>1994-09-16</datumRodjenja>
+        <godine>29</godine>
+        <nastupi>37</nastupi>
+        <golovi>11</golovi>
+        <klub>GNK Dinamo Zagreb</klub>
+        <slika>petkovic.png</slika>
+    </nogometas>
+    <nogometas id="024">
+        <ime>Marko</ime>
+        <prezime>Pjaca</prezime>
+        <pozicija>LWF</pozicija>
+        <broj>20</broj>
+        <datumRodjenja>1995-05-06</datumRodjenja>
+        <godine>29</godine>
+        <nastupi>26</nastupi>
+        <golovi>1</golovi>
+        <klub>HNK Rijeka</klub>
+        <slika>pjaca.png</slika>
+    </nogometas>
+    <nogometas id="025">
+        <ime>Ante</ime>
+        <prezime>Budimir</prezime>
+        <pozicija>CF</pozicija>
+        <broj>16</broj>
+        <datumRodjenja>1991-07-22</datumRodjenja>
+        <godine>32</godine>
+        <nastupi>20</nastupi>
+        <golovi>2</golovi>
+        <klub>Osasuna</klub>
+        <slika>budimir.png</slika>
+    </nogometas>
+    <nogometas id="026">
+        <ime>Marco</ime>
+        <prezime>Pašalić</prezime>
+        <pozicija>RWF</pozicija>
+        <broj>24</broj>
+        <datumRodjenja>2000-09-14</datumRodjenja>
+        <godine>23</godine>
+        <nastupi>5</nastupi>
+        <golovi>1</golovi>
+        <klub>HNK Rijeka</klub>
+        <slika>marco.png</slika>
+    </nogometas>
+</nogometasi>
